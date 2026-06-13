@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/te-busque-en-la-tormenta/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Te busqué en la tormenta](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/te-busque-en-la-tormenta/) |
+| **Get License** | [Request Licensing for Te busqué en la tormenta](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/te-busque-en-la-tormenta/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `4d577fd4c802b75438f811ac9582b34d13d810132465505a0939f4fdd91342f1` |
 | **Timestamp** | June 13, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Te busqué en la tormenta
+
+This log tracks the cryptographic history and versioning for the song **Te busqué en la tormenta** (te-busque-en-la-tormenta).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-13T19:27:49.844930 | `v1` | `4d577fd4c802b75438f811ac9582b34d13d810132465505a0939f4fdd91342f1` | `285272bd675fa7f7847b90e0dccd9a4ea22c02abf249da28b040bf995bd816eb` | `2026-06-13_te-busque-en-la-tormenta-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
