@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/te-busque-en-la-tormenta/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Te busqué en la tormenta](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/te-busque-en-la-tormenta/) |
+| **Get License** | [Commercial Licensing for Te busqué en la tormenta](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/te-busque-en-la-tormenta/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Te busqué en la tormenta, perdiendo la razón
+> Tú eres la dueña pura de mi corazón
+> Bajo la luna llena, quemamos la ciudad
+> Ven y dame esa boca, que es mi debilidad
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
